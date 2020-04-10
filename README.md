@@ -1,2 +1,2 @@
 # Interview-Prep-Notes
-Haven't done anything here, but the notes are coming. I'm working through the ML course for now.
+I'll add more notes over the course of this summer. Feel free to use these notes for your reference.
